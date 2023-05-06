@@ -1,0 +1,7 @@
+general {
+  output_format = "i3bar"
+  colors = true
+  color_good = "#96A53C"
+  color_degraded = "#DFFF00"
+  color_bad = "#FF5F70"
+}
