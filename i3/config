@@ -217,3 +217,6 @@ client.unfocused        #141414 #141414 #FFB6BE #141414   #141414
 client.urgent           #141414 #FF5F70 #FFFFFF #FF5F70   #FF5F70
 client.placeholder      #141414 #141414 #FFB6BE #141414   #141414
 client.background       #FFFFFF
+
+# set the wallpaper
+execute feh --bg-fill /home/adnssa/Documents/bg/sakura.jpg
